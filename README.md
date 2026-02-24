@@ -1,6 +1,7 @@
 # shopping_cart
 
 Nama: Nayla Lelyanggraheni Hutomo
+
 NIM: 2409116061
 
 <img width="428" height="763" alt="localhost_54030_(iPhone SE)" src="https://github.com/user-attachments/assets/a0c2d150-5046-457c-ad6c-e06176e8daff" />
