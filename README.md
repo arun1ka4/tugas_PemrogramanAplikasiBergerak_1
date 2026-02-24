@@ -10,5 +10,6 @@
 
 <img width="750/2" height="1334/2" alt="localhost_54030_(iPhone SE) (4)" src="https://github.com/user-attachments/assets/1654503d-8063-43b4-b212-1f190118a6a7" />
 
-<img width="750/2" height="1334/2" alt="localhost_54030_(iPhone SE) (5)" src="https://github.com/user-attachments/assets/fe890435-edfa-4868-92da-cba1b55b581e" />
+<img width="428" height="763" alt="image" src="https://github.com/user-attachments/assets/d5b66790-3c26-4e43-a254-b43c24fba5b4" />
 
+<img width="750/2" height="1334/2" alt="localhost_54030_(iPhone SE) (5)" src="https://github.com/user-attachments/assets/fe890435-edfa-4868-92da-cba1b55b581e" />
